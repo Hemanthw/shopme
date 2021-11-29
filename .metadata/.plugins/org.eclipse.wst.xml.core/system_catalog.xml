@@ -1,13 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
   <public publicId="-//Sun Microsystems, Inc.//DTD Facelet Taglib 1.0//EN" uri="jar:file:/E:/STS481/sts-4.8.1.RELEASE/plugins/org.eclipse.jst.jsf.facelet.core_1.4.2.v201902121810.jar!/dtd/facelet-taglib_1_0.dtd" webURL="facelet-taglib_1_0.dtd"/>
-  <system systemId="http://maven.apache.org/maven-v4_0_0.xsd" uri="jar:file:/E:/STS481/sts-4.8.1.RELEASE/plugins/org.eclipse.m2e.model.edit_1.16.0.20200514-1409.jar!/xsd/maven-v4_0_0.xsd"/>
-  <system systemId="http://maven.apache.org/xsd/maven-4.0.0.xsd" uri="jar:file:/E:/STS481/sts-4.8.1.RELEASE/plugins/org.eclipse.m2e.model.edit_1.16.0.20200514-1409.jar!/xsd/maven-v4_0_0.xsd"/>
-  <system systemId="http://maven.apache.org/xsd/settings-1.0.0.xsd" uri="jar:file:/E:/STS481/sts-4.8.1.RELEASE/plugins/org.eclipse.m2e.model.edit_1.16.0.20200514-1409.jar!/xsd/settings-v1_0_0.xsd"/>
-  <system systemId="http://maven.apache.org/xsd/profiles-1.0.0.xsd" uri="jar:file:/E:/STS481/sts-4.8.1.RELEASE/plugins/org.eclipse.m2e.model.edit_1.16.0.20200514-1409.jar!/xsd/profiles-v1_0_0.xsd"/>
-  <system systemId="http://maven.apache.org/xsd/archetype-1.0.0.xsd" uri="jar:file:/E:/STS481/sts-4.8.1.RELEASE/plugins/org.eclipse.m2e.model.edit_1.16.0.20200514-1409.jar!/xsd/archetype-1.0.0.xsd"/>
-  <system systemId="http://maven.apache.org/xsd/archetype-catalog-1.0.0.xsd" uri="jar:file:/E:/STS481/sts-4.8.1.RELEASE/plugins/org.eclipse.m2e.model.edit_1.16.0.20200514-1409.jar!/xsd/archetype-catalog-1.0.0.xsd"/>
-  <system systemId="http://maven.apache.org/xsd/archetype-descriptor-1.0.0.xsd" uri="jar:file:/E:/STS481/sts-4.8.1.RELEASE/plugins/org.eclipse.m2e.model.edit_1.16.0.20200514-1409.jar!/xsd/archetype-descriptor-1.0.0.xsd"/>
+  <system systemId="http://www.w3.org/2001/xml.xsd" uri="jar:file:/E:/STS481/sts-4.8.1.RELEASE/plugins/org.eclipse.xsd_2.18.0.v20210427-0854.jar!/cache/www.w3.org/2001/xml.xsd"/>
+  <uri name="http://www.w3.org/2001/XMLSchema" uri="jar:file:/E:/STS481/sts-4.8.1.RELEASE/plugins/org.eclipse.xsd_2.18.0.v20210427-0854.jar!/cache/www.w3.org/2001/XMLSchema.xsd"/>
+  <system systemId="http://maven.apache.org/maven-v4_0_0.xsd" uri="jar:file:/E:/STS481/sts-4.8.1.RELEASE/plugins/org.eclipse.m2e.model.edit_1.18.0.20210601-1135.jar!/xsd/maven-v4_0_0.xsd"/>
+  <system systemId="http://maven.apache.org/xsd/maven-4.0.0.xsd" uri="jar:file:/E:/STS481/sts-4.8.1.RELEASE/plugins/org.eclipse.m2e.model.edit_1.18.0.20210601-1135.jar!/xsd/maven-v4_0_0.xsd"/>
+  <system systemId="http://maven.apache.org/xsd/settings-1.0.0.xsd" uri="jar:file:/E:/STS481/sts-4.8.1.RELEASE/plugins/org.eclipse.m2e.model.edit_1.18.0.20210601-1135.jar!/xsd/settings-v1_0_0.xsd"/>
+  <system systemId="http://maven.apache.org/xsd/profiles-1.0.0.xsd" uri="jar:file:/E:/STS481/sts-4.8.1.RELEASE/plugins/org.eclipse.m2e.model.edit_1.18.0.20210601-1135.jar!/xsd/profiles-v1_0_0.xsd"/>
+  <system systemId="http://maven.apache.org/xsd/archetype-1.0.0.xsd" uri="jar:file:/E:/STS481/sts-4.8.1.RELEASE/plugins/org.eclipse.m2e.model.edit_1.18.0.20210601-1135.jar!/xsd/archetype-1.0.0.xsd"/>
+  <system systemId="http://maven.apache.org/xsd/archetype-catalog-1.0.0.xsd" uri="jar:file:/E:/STS481/sts-4.8.1.RELEASE/plugins/org.eclipse.m2e.model.edit_1.18.0.20210601-1135.jar!/xsd/archetype-catalog-1.0.0.xsd"/>
+  <system systemId="http://maven.apache.org/xsd/archetype-descriptor-1.0.0.xsd" uri="jar:file:/E:/STS481/sts-4.8.1.RELEASE/plugins/org.eclipse.m2e.model.edit_1.18.0.20210601-1135.jar!/xsd/archetype-descriptor-1.0.0.xsd"/>
+  <public publicId="-//LOG4J//DTD LOG4J//EN" uri="jar:file:/E:/STS481/sts-4.8.1.RELEASE/plugins/org.springsource.ide.eclipse.commons.ui_4.11.0.202106150606.jar!/dtd/log4j-1.2.dtd" webURL="https://logging.apache.org/log4j/1.2/apidocs/org/apache/log4j/xml/doc-files/log4j.dtd"/>
   <public publicId="-//WAPFORUM//DTD WML 1.1//EN" uri="jar:file:/E:/STS481/sts-4.8.1.RELEASE/plugins/org.eclipse.wst.standard.schemas_1.0.800.v201901071922.jar!/dtds/wml11.dtd"/>
   <public publicId="-//W3C//DTD XHTML 1.0 Strict//EN" uri="jar:file:/E:/STS481/sts-4.8.1.RELEASE/plugins/org.eclipse.wst.standard.schemas_1.0.800.v201901071922.jar!/dtds/xhtml1-strict.dtd" webURL="http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"/>
   <public publicId="-//W3C//DTD XHTML 1.0 Transitional//EN" uri="jar:file:/E:/STS481/sts-4.8.1.RELEASE/plugins/org.eclipse.wst.standard.schemas_1.0.800.v201901071922.jar!/dtds/xhtml1-transitional.dtd" webURL="http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"/>
@@ -34,7 +37,6 @@
   <uri name="http://docs.oasis-open.org/ws-sx/ws-securitypolicy/200702" uri="jar:file:/E:/STS481/sts-4.8.1.RELEASE/plugins/org.eclipse.wst.standard.schemas_1.0.800.v201901071922.jar!/xsd/ws-securitypolicy-1.2.xsd"/>
   <uri name="http://docs.oasis-open.org/ws-sx/ws-securitypolicy/200802" uri="jar:file:/E:/STS481/sts-4.8.1.RELEASE/plugins/org.eclipse.wst.standard.schemas_1.0.800.v201901071922.jar!/xsd/ws-securitypolicy.xsd"/>
   <uri name="http://www.w3.org/TR/xmldsig-core/xmldsig-core-schema.xsd" uri="jar:file:/E:/STS481/sts-4.8.1.RELEASE/plugins/org.eclipse.wst.standard.schemas_1.0.800.v201901071922.jar!/xsd/xmldsig-core-schema.xsd"/>
-  <system systemId="http://www.w3.org/2001/xml.xsd" uri="jar:file:/E:/STS481/sts-4.8.1.RELEASE/plugins/org.eclipse.xsd_2.18.0.v20200723-0820.jar!/cache/www.w3.org/2001/xml.xsd"/>
-  <uri name="http://www.w3.org/2001/XMLSchema" uri="jar:file:/E:/STS481/sts-4.8.1.RELEASE/plugins/org.eclipse.xsd_2.18.0.v20200723-0820.jar!/cache/www.w3.org/2001/XMLSchema.xsd"/>
-  <public publicId="-//LOG4J//DTD LOG4J//EN" uri="jar:file:/E:/STS481/sts-4.8.1.RELEASE/plugins/org.springsource.ide.eclipse.commons.ui_4.8.1.202010230633.jar!/dtd/log4j-1.2.dtd" webURL="https://logging.apache.org/log4j/1.2/apidocs/org/apache/log4j/xml/doc-files/log4j.dtd"/>
+  <public publicId="-//SPRING//DTD BEAN//EN" uri="platform:/plugin/org.springframework.beans/org/springframework/beans/factory/xml/spring-beans.dtd" webURL="https://www.springframework.org/dtd/spring-beans.dtd"/>
+  <public publicId="-//SPRING//DTD BEAN 2.0//EN" uri="jar:file:/E:/STS481/sts-4.8.1.RELEASE/plugins/org.springframework.beans_4.3.23.20190313-CI.jar!/org/springframework/beans/factory/xml/spring-beans-2.0.dtd" webURL="https://www.springframework.org/dtd/spring-beans-2.0.dtd"/>
 </catalog>
